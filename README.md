@@ -26,4 +26,4 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** As an ISNE student, I would say studying in this major is not too hard and not too easy. It requires a lot of effort and dedication in studying. There are subjects that seems to be so hard to handle, but I believe there are ways to be able to pass them. It is best to manage your time wisely. I have found out that, if you study too much or relax too much, either way is not an effective thing as a university student. We must balance our time. Also, one thing I found effective for studying is listening to the professor attentively in class. By this, it is most likely that we will understand the lessons.
