@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 1. -clear The clear command clears your terminal screen It helps you keep your screen neat and clean.
+            2. -ls    This command use to show list file in current directory.We use this command often.
+            3. -cat   Use to print content in file.
+            4. -cd    Use to switch directory by you need to enter cd and follow by directory path.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
