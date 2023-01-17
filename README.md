@@ -24,3 +24,4 @@
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
 **Answer:** ...
+So far, being an ISNE student has been challenging yet an exciting experince. I am a student fresh from high school transitioning into a different world of education. It was a drastic change in my life but I have come to embrace the new experience. There are many things that might be a bit different from how high school teachers used to teach but don't let those changes get to you. If I could summarize my first half of a year one student is study hard and play hard. You have a lot of free time, use it wisely and learn to have fun as well! I hope if you're interested in joining this major that we would be able to meet each other! Best wishes, Win.
