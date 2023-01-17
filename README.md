@@ -15,12 +15,18 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** The most useful commands from most to least are in order:
+            - ls command. I think it's the most important command ever because we need to look inside a directory to see what files are
+            inside a directory. If we can't see them, we can't interact them and it'll make Linux practically useless.
+            - echo command. We need it in order to read a file, otherwise files become useless like a notebook scribbled with foreign language you can't read.
+            - cd command. It's very necessary. You need it to move around directory. They're like legs for our body, without them we can't move around.
+            - clear command. It tidies texts after your work and brings you up to the top of the computer terminal. Very important in my opinion.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** When we view files, there are 9 numbers in front of a file. Every 3 digits are divided for each user. First 3 numbers in each user correspond to read, write, and execute. And there are 3 user groups which are user, group and others. r is read permission. This permission allows user to read and copy content of a file. w is write permission. This permission allows user to edit/write a file. w permission needs r permission to work correctly. e is execute permission. This permission allows user to execute a command on a file. Permissions are important. We need permissions in order to store files safely. Otherwise unauthorized people can access our files.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** I'd like to tell them to quit as soon as possible. Studying in ISNE is tough and it feels like you're going through every level of hell. You'll be studying a lot and asking yourselves why you're studying in every subject. It'll be awfully painful to the point you start questioning your existence. Just remember you won't be tortured alone though. Get some friends and you can now torture yourselves together in ISNE.
