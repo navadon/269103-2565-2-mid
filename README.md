@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer: mkdir , cd, diff, ls 
+my opinion 
+(mkdir) is easy to remember and it is useful to create directory. 
+(cd) It's a step that allows us to navigate through directories easily. (diff) It is compare differences and that command clearly shows the  change .
+(ls)The ls command is used to list files and directories in the current working directory.
 
 2. Explain what is “permission” in a file system and why it is important.
 
