@@ -23,4 +23,4 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** I'd like to tell them to quit as soon as possible. Studying in ISNE is tough and it feels like you're going through every level of hell. You'll be studying a lot and asking yourselves why you're studying in every subject. It'll be awfully painful to the point you start questioning your existence. Just remember you won't be tortured alone though. Get some friends and you can now torture yourselves together in ISNE.
