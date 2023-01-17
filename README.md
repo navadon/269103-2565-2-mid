@@ -15,11 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** the ls command, the "./" run command, the echo command is pretty useful to use, and the clear command to clear some clusters.
+**Answer:** 
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** permission let's you limit acceess to people that you don't want access to for example you are the developer and you don't want your workers access to your files etc.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
