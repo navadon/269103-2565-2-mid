@@ -30,4 +30,4 @@ screen people who can access files.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** After I study ISNE for one and a half years, I want to recommend to those who wants to be ISNE students. You must love to be a developer. For 1st semester class, c++ is very good because the Professor will guide you everything about c++. For Cal1, you must have basic knowledge about calculus but you don't worry if you want to be developer you can do it. Susu!
