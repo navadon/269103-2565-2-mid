@@ -25,7 +25,7 @@
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** When we view files, there are 9 numbers in front of a file. Every 3 digits are divided for each user. First 3 numbers in each user correspond to read, write, and execute. And there are 3 user groups which are user, group and others. r is read permission. This permission allows user to read and copy content of a file. w is write permission. This permission allows user to edit/write a file. w permission needs r permission to work correctly. e is execute permission. This permission allows user to execute a command on a file. Permissions are important. We need permissions in order to store files safely. Otherwise unauthorized people can access our files.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
