@@ -15,7 +15,10 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 1) pwd command - print working directory; with this command, I can see which directory am I currently working on.
+            2) ls command - list; with this command, I can list the files and directories within the system that I am working on.
+            3) cp command - copy; with this command, I can copy files or directories.
+            4) rm command - remove; with this command, I can remove or delete the files within the directory.
 
 2. Explain what is “permission” in a file system and why it is important.
 
