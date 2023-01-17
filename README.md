@@ -23,4 +23,4 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** From I have studied in ISNE for half years, I will recommend to prospective ISNE students that i would like everyone find the information about ISNE such as what is ISNE studying and what are works that you can go after finished study. In Addition, Be diligent to read books everyday on a regular basis, persevering and not giving up but don't stress too much and put pressure on yourself. Finally, Don't be lazy and read near the examination.
