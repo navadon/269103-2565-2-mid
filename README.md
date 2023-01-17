@@ -17,6 +17,15 @@
 
 **Answer:** ...
 
+#1 cd , to get in a file or directory depending on the current working directory by absolute paths or relative paths.
+
+#2 cat, to read and to show the content in a file without having to open the file for editing.
+
+#3 ls -l, to display the current working directory's file/directory and the permission detail for user.
+
+#4 chmod, typing "chmod" following with "symbolic or numeric method" to change a file/directory permission type -- "r", "w" or "x".
+
+
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
