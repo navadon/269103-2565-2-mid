@@ -15,7 +15,12 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** mkdir , cat , cd , mv
+I believe  mkdir , cat , cd , mv are the most useful because 
+- mkdir make we can create a new directory easy.
+- cat can displays the contents of a file that we want.
+- rm can use to deletes files or directories.
+- mv can move files or directories from one location to another
 
 2. Explain what is “permission” in a file system and why it is important.
 
