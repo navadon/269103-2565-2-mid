@@ -15,12 +15,12 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** ... cd, cat, ls -al, mkdir, touch, nano, vim, echo, chmod, clear, &&, ||, |, ;, >>, <<, >, <, grep
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** ... permission in a file system is important to allow user, other users and guests to read, write and execute the files.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** ... before I begin to study in this major, I learn coding with python and want to know which career I want to do such as Full-stack engineer, data engineer, AI engineer and etc. while I was studying in this major, I felt like I know more about how developer work.I really want to study about network and programming my friends are polite and have the same interest as me. I think about after I finish this major what's career I want to do and want to study more about new technology like Artifical Intelligence. 
