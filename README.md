@@ -19,8 +19,8 @@
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** permission let's you limit acceess to people that you don't want access to for example you are the developer and you don't want your workers access to your files etc.
+**Answer:**
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** i recommend that you study coding ahead of time to get the feel of what the future has to come cause being in the isne program has taught me to code better as well as to use my free time to get better at coding cause if i or you don't start practising now,i gurentee you you will not catch up with anybody in your class and another piece of advice is that use your time wisely, sounds pretty obvious right? but i've seen a couple of my friends just not give a damn about thier classes and jsut ultimately failing them because of that, i hope whoever is reading this to take it into heart and i wish them luck in the next couple of years to come 
