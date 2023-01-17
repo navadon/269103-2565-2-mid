@@ -22,7 +22,7 @@
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** Permission in a fule system determines which users are permitted to do what actions on a file (read, write, exectute). It is important in the sense of data protection. If there are no permissions, then data might get leaked or it can harm the system.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
