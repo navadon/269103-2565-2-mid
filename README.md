@@ -23,4 +23,5 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+Answer
+From learning ISNE in the beginning,everything see very difficult because everything was new knowledge that we had never known before. in addition, we had to learn everthig in english. Don't feel too stressed out if at first you don't understand. After studying while having spent time to adjust,everything will become easier.Calculus 1 will be very difficult, but don't worry.Try to review lesson often,practice problems from quiz.After practice problems,I will be can do calculus 1.
