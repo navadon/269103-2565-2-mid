@@ -17,6 +17,15 @@
 
 **Answer:** ...
 
+#1 git init, it initialize our work as a Git reposity. It is the first command to make Git track our process of work.
+
+#2 git commit, this command helps us to store each message of all changes in the working directory. It is simmilar to timestamp of version.
+
+#3 git revert, when you have to undo the file, this command is useful because it will take you back to a directory which you want to edit and it still has other commits history.
+
+#4 git checkout -b, to fix the error/bug of the file without ruining on a main, you can create the demo version of the edited file by creating a new branch. It is useful when you are working with your teammate.
+
+
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
