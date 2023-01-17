@@ -15,12 +15,17 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer: mkdir , cd, diff, ls 
+my opinion 
+(mkdir) is easy to remember and it is useful to create directory. 
+(cd) It's a step that allows us to navigate through directories easily. (diff) It is compare differences and that command clearly shows the  change .
+(ls)The ls command is used to list files and directories in the current working directory.
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer: File permissions are set on a file-by-file basis, and are set for each of three different access classes: user, group, and other.it attributes of files and directories that control the ability of users to read, write, and execute the contents of the file system.
+It is important cause It protects our work files. preventing unauthorized people from entering.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:The thing that I will recommend is to Think carefully before entering the ISNE major whether you like it or not or whether are you good at it or not because we have to study for 4 years. Besides, it's a very difficult major to study. But if you have basic knowledge and understand what you learn, it may like and fun with that major. Good luck :)  
