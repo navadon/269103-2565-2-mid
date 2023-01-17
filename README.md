@@ -16,6 +16,14 @@
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** ...
+1.cd 
+    stands for "change directory". It's a command used for enter another directory location.
+2.mkdir
+    stands for "make directory". It's a command used for create an emty directory.
+3.ls
+    stands for "list. It's a command used for show what is in directory that we ask for such as ls demo.
+4.cat
+    stands for "concatenate". It's a command used for reads data from the file and gives thier content as output.
 
 2. Explain what is “permission” in a file system and why it is important.
 
