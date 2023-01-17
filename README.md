@@ -37,4 +37,4 @@ d[rwx][rwx][rwx] <- The first bracket is for the owner, the 2nd bracket is for g
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
 **Answer:** 
-If you're interested in entering this branch within Engineering Faculty. I will definitely recommend you to have atleast basic knowledge or experiences with coding before education period starts. The coding gradually becomes more challenging over the months within the subjects and eventually it will take a toll on you. Also, you must make alot of friends and have a group to study together. You won't survive alone, it's practically impossible.
+If you're interested in entering this branch within Engineering Faculty. I will definitely recommend you to have atleast basic knowledge or experiences with coding before education period starts. The coding gradually becomes more challenging over the months within the subjects and eventually it will take a toll on you. Also, you must make alot of friends and have a group to study together. You won't survive alone, it's practically impossible to pull it off.
