@@ -25,7 +25,9 @@ a system running
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer: Permission is help to control the file system it make file or folder and control to access the system and user.
+Why Permission is important becuase the user can mannage the attribute and control by them self and help you about secure change the file without permissin from you and help your system file to be safe.
+
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
