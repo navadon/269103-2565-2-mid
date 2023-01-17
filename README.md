@@ -20,6 +20,7 @@
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
+Permission is important because it allows user to access a file or directory and permissions can prevent users from accessing a file or directory depending on the permissions they have. There are 3 types of permissions which are read, write, and execute. Read is for reading a file or directory, write is to write or edit a file or directory, and execute is running the file or granting permission to access the directory. There are 3 groups of users: users, group, and others. Each has it's own permissions that can be edited using chmod.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
