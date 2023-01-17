@@ -15,7 +15,12 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 
+1)  chmod is useful for changing permissions for linux user, group, and other users in the linux system. 
+    It allows you grant or deny permission for anyone accessing the file or directory.
+2)  ls (listing)is useful for viewing the contents of a directory and permission of each user group.
+3)  > is important for redirecting contents from a command into a specified file
+4)  echo is useful for displaying anything you write, this could be use to echo a word then redirect the word into a file would be helpful.
 
 2. Explain what is “permission” in a file system and why it is important.
 
