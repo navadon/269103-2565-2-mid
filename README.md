@@ -31,4 +31,5 @@ Why Permission is important becuase the user can mannage the attribute and contr
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer: I will recommend if you ISNE student in year one it very new to study in university it have many activities to do with your friends and it will be hard working I think you should enjoy your study don't be stress about it do thing that you want to do meet new friend and I warn calculus 1 you will die if you not work hard. And I'll told you grade it not everything in your life and I want you to don't give up with your goal! keep going!!
+
