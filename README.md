@@ -18,7 +18,7 @@
 **Answer:**
 **ls (List)** -> This command is without a doubt, one of the most important commands and is frequently used in Linux. This command allows the user to list out all of the directories in the current navigation.
 **cd (Change Directory)** -> This command is essential to use for Linux, it navigates the directory to a certain location in the computer so the user can create files in selected directory.
-**nano** -> This command allows users to make small changes  to existing files or writing plain text files. Nano is known for being a terminal based text editor. Not only that, you can script in there either.
+**nano** -> This command allows users to make small changes to existing files or writing plain text files. Nano is known for being a terminal based text editor. Not only that, you can script in there too.
 **chmod (Change Mode)** -> This command will change permissions in following files of in the directory. This command is very useful as you can set permissions so you can use it for yourself, for group work, or for public sharing. Letting everyone read, write and execute.
 
 2. Explain what is “permission” in a file system and why it is important.
