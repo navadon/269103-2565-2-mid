@@ -15,12 +15,16 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** - git add is add a file from working directory to next commit or staging area.
+            - git commit is commit changes in staging area to repo.
+            - git branch is create a new branch at the current commit, it is to work sub-divided into branches.
+            - git reset is versioning files back to the state they were in before adding them to staging area.
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** Every file on a computer has what we call file permissions, It allows to execute a file from the command line 
+            and control what user is permitted to perform which actions on a file. These are attributes of the file that determines who has permission to access that file and what they can do to that file.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** From I have studied in ISNE for half years, I will recommend to prospective ISNE students that i would like everyone find the information about ISNE such as what is ISNE studying and what are works that you can go after finished study. In Addition, Be diligent to read books everyday on a regular basis, persevering and not giving up but don't stress too much and put pressure on yourself. Finally, Don't be lazy and read near the examination.
