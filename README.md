@@ -33,17 +33,6 @@ Permissions are important to maintain and securing your systems. It ensures that
 
 d[rwx][rwx][rwx] <- The first bracket is for the owner, the 2nd bracket is for groups, and the 3rd bracket is for others.
 
-**Answer:**
-Linux 'Permission' has 3 types of permissions which are *r (read)*, *w (write)*, and *x (execute)*.
-**Read Permission:** This permission allows users to be able to read the file and copy them.
-**Write Permission:** This permission allows users to be able to edit and write the file, making changes to the file itself. However, the **Read Permission** is mandatory for this to work.
-**Execute Permission:** This permission allows users to be able to run the file as a process, hence the name 'Execute'.
-
-Permissions are important to maintain and securing your systems. It ensures that only authorized users and processes is able to access specific directories and files by your own edits, which you can give permissions to your friends in groups, or in public by setting in 'others'.
-
-d[rwx][rwx][rwx] <- The first bracket is for the owner, the 2nd bracket is for groups, and the 3rd bracket is for others.
-
-
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
 **Answer:** 
