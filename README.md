@@ -15,12 +15,16 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** cd : change  working directory
+            ls : list directory contents
+            echo : print any text that follows the command
+            mkdir : command used to create directories in Linux
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** permission is made to specify who can read, write, modify, and access them. In Linux, file permissions, attributes, and ownership control the access level that the system processes and users have to files. This ensures that only authorized users and processes can access specific files and directories. To put it simply this made to prevent an unauthorized users who intend to make an illegal action with the file.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** In my perspective this major teaching is similar to CPE but international version. that’s mean you should have a standard English skill. All of the class here is teaching in English. I think this isn't worth its fee honestly, you pay more than CPE students but learn similar things but in English and Some of the teachers are Thai and some of them aren't that good at teaching in English and that makes it more complicated. I think some subjects that require understanding should be taught by a native speaker that would make it more clearer. In the whole view, Studying here could be hard but if you work hard and put an effort to it, I'm sure you can make a good result. 
