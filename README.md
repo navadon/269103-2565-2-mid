@@ -15,7 +15,13 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** The most useful commands from most to least are in order:
+            - ls command. I think it's the most important command ever because we need to look inside a directory to see what files are
+            inside a directory. If we can't see them, we can't interact them and it'll make Linux practically useless.
+            - echo command. We need it in order to read a file, otherwise files become useless like a notebook scribbled with foreign language you can't read.
+            - cd command. It's very necessary. You need it to move around directory. They're like legs for our body, without them we can't move around.
+            - clear command. It tidies texts after your work and brings you up to the top of the computer terminal. Very important in my opinion.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
