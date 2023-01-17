@@ -15,7 +15,16 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** First command that I think is very important is grep command, especially when our files are messy and we want to search for files that has certain patterns, grep command will make
+it so much easier to find them. 
+         Second command is cp, the reason is copying a file and have it in another place for redundancy just in case we want to revert the one we work on or the
+file is lost, by using cp command to copy the files and have a back up is very useful.
+         Third command is diff, because when we work on something that already works perfectly but we want to progress further, it could leads to error and to find a solution for that
+is to use diff command and compare the file with the previous one, line by line comparison is very useful especially in big project since so many people work on it and encountering with
+error and contradiction in codes is inevitable and by comparing line by line with the previous one is very useful.
+         Forth command is ls, obviously this on is very important listing all the files in the directory, a very straightfoward command yet a very useful one. list all the files so that
+we can see what's inside the directory.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
