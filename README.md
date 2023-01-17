@@ -15,7 +15,12 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+Answer:
+1.cd command - is use to change directory 
+2.pwd command - is use to know where you currently are. 
+3.cat command - is use to redirect or show what inside the file. This can also link many files together. 
+4.touch - is use to reduce the recreation of the same file. If it is empty, it will create a new file. On the other hand, if the file is already existed , it will update modification instead.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
