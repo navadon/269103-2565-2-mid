@@ -23,4 +23,5 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** After I learned here my computer skills improved. This program focus on programming knowledge and information system. All professor are very talented and able to teach knowledge well. I like computer programming course and all course that doesn't need to calculate much. Calculas 1 on this program is really hard you need to practice alot of problem to pass this course. Society in the computer department is very good and help each other.
+
