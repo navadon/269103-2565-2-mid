@@ -22,7 +22,8 @@
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** Every file on a computer has what we call file permissions, It allows to execute a file from the command line 
+            and control what user is permitted to perform which actions on a file. These are attributes of the file that determines who has permission to access that file and what they can do to that file.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
