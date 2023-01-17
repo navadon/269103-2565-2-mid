@@ -28,6 +28,7 @@
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
+permission is a right that allows us to access a file or not. It controls the access level that the system processes and users have to files. This ensures that only authorized users and processes can access specific files and directories.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
