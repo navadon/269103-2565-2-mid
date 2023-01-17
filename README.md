@@ -24,7 +24,9 @@ I believe  mkdir , cat , cd , mv are the most useful because
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** permission  is  control the ability of users to read, write and execute the contents of the file system.
+why its important : Because premision is can protect file from unauthorized people and protect from virus.
+screen people who can access files.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
