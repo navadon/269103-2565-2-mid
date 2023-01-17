@@ -15,7 +15,7 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ... 
+**Answer:** ... cd, cat, ls -al, mkdir, touch, nano, vim, echo, chmod, clear, &&, ||, |, ;, >>, <<, >, <, grep
 
 2. Explain what is “permission” in a file system and why it is important.
 
