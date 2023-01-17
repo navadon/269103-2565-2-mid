@@ -29,4 +29,5 @@ Permission in the file is to show that what level person have an access to read,
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+Answer:
+I think they should have patient to do something even if this may be all new for them. They should be willing to learn and practice a lot. Don't be feeling paranoid when you cannot do it like other classmates. Just do the best as you can. Don't scare to ask help from your friends, or even professors. They can really help you a lot. The most important things is don't be afraid of mistakes.
