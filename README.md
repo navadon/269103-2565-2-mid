@@ -21,6 +21,8 @@
 
 **Answer:** ...
 
+The detail of file when we type "ls -l" will include 4 parts that we need to concern. Three of these are the PERMISSION. The permission is the group of charaters that show us what the accessbility we have in the file/directory. Nine characters seperates to three for each owner--User owner, Group owner and others in respectively. In each three characters, there are 3 alphabet which are "r" "w" and "x". r means owner can read/copy/list. w means owner can write/edit/added/removed. x means owner can execute the file/get into the directory. It is important because we have to check the permission before we do something with the file. Without having permission, the user can not do what they want with the file.
+
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
 **Answer:** ...
