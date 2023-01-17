@@ -15,7 +15,13 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer: There are many commands I lean feom this class
+1.ls command -> it mean list directory contents it help to see and display the name files or content within
+a system running
+2.cat command -> it very important in linux it print list and combines the content files 
+3.rm command -> it mean remove it use to delete flie within a directory
+4.tail command -> use to display last ten lines of file it help easy to read the last file
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
