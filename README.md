@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** ... 
+mkdir - mean is " make direstories " Allow us to create folders within  the dessired directory
+cd - mean is " change directory " It allow you to change the Directory or Folder you are in
+rm - mean is " remove " It allow you to remove  files. You just need to type the command, followed by the files name you wanna delete it
+ls - mean is " List " this command used to list all files and the folders that are n the current directory
 
 2. Explain what is “permission” in a file system and why it is important.
 
