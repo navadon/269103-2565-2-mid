@@ -28,4 +28,4 @@ It is important cause It protects our work files. preventing unauthorized people
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:The thing that I will recommend is to Think carefully before entering the ISNE major whether you like it or not or whether are you good at it or not because we have to study for 4 years. Besides, it's a very difficult major to study. But if you have basic knowledge and understand what you learn, it may like and fun with that major. Good luck :)
