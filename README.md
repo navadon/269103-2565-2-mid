@@ -15,7 +15,10 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** - git add is add a file from working directory to next commit or staging area.
+            - git commit is commit changes in staging area to repo.
+            - git branch is create a new branch at the current commit, it is to work sub-divided into branches.
+            - git reset is versioning files back to the state they were in before adding them to staging area.
 
 2. Explain what is “permission” in a file system and why it is important.
 
