@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** cd : change  working directory
+            ls : list directory contents
+            echo : print any text that follows the command
+            mkdir : command used to create directories in Linux
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
