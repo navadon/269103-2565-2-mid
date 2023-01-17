@@ -15,11 +15,15 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+Answer
+1.pwd command this command writes to standard output the full path name of your current directory (from the root directory).
+2.cd command this command takes you to your home directory.
+3.ls command this command display the name of files contained within a directory.
+4.cp command this command copy source to destination directory.
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** ...s 
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
