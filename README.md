@@ -24,6 +24,12 @@ ls - mean is " List " this command used to list all files and the folders that a
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
+Permission in a file system is Allow the user group visiting but will not be ble to fix everyone and protect this files
+Divideed into 3 group
+- Someone with read permission may read the contents in files, or list of directory
+- Someone with write permission may modify the contents in files, adding, changing, or deleting file contents
+- Someone with execut permission may run an executable file or access contents in directory
+
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
