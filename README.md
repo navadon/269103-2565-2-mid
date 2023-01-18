@@ -21,6 +21,13 @@
 
 **Answer:** ...
 
+In a file system, permissions refer to the access rights that users and groups have to files and directories. 
+These rights determine who can read, write, or execute a file, and who can change the permissions or ownership of a file.
+
+Permissions are important because they provide a way to control access to files and directories in a multi-user system. 
+Without permissions, any user on the system would be able to read, write, or delete any file, regardless of whether or not they should have access to it. 
+This would make it difficult to keep sensitive information secure and could lead to accidental data loss or corruption.
+
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
 **Answer:** ...
