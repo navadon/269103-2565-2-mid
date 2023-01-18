@@ -17,6 +17,15 @@
 
 **Answer:** ...
 
+"ls" - This command allows you to view the files and directories in your current directory. It is useful for navigating and finding files on your system.
+
+"cd" - This command allows you to change your current directory. It is useful for navigating to different parts of your file system.
+
+"cp" - This command allows you to copy files or directories. It is useful for making backups of important files or for copying files to different locations on your file system.
+
+"chmod" - This command allows you to changing permissions for linux user, group, and other users in the linux system. 
+
+
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
