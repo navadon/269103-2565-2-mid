@@ -41,3 +41,14 @@ This would make it difficult to keep sensitive information secure and could lead
 
 **Answer:** ...
 
+Network ISNE is a great place to meet people 
+who share your interests and passions. 
+Attend networking events, join clubs and organizations, and make connections with your classmates and professors.
+Take ownership of your learning by setting goals, staying organized, and taking charge of your time management.
+Your professors and teaching assistants are there to help you succeed. 
+Don't be afraid to ask questions or seek help if you're struggling with a concept or assignment.
+Be prepared to work hard and stay organized. 
+The ISNE program is challenging, and it will require a lot of dedication and effort to keep up with the coursework.
+
+Good luck and welcome to ISNE.
+
