@@ -15,12 +15,15 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
-
+**Answer:** 1.1). (ls -l) Because this command make you understand clearly of file's permission. Not just list all files that you could 
+            see. 
+            1.2). (chmod [rwx] [File]) It's very useful when you want to change the permission of the file. Moreover, you can limit the others permission for your file's privacy.
+            1.3). (cd [Directory]) This command make everyone to change your current directory to the previous directory or the directory that inside current directory.
+            1.4) (clear) Just clear the screen for clean screen. It's just for personal satisfying.
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** It is our file security and the permission are very important to protect user's files. If someone can access and copy your files, you might be unsafe. That all reasons that permisions are very important for everyone's files. 
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** When I started to study in the first day, I got surprised that there are very interesting to learning from these courses. But they’re so hard to understand because all courses are contained of English. So, it’s hard for me to understand those word and converted into Thai. Finally, if someone want to come to ISNE. We will glad to see you and welcome you.
