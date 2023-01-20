@@ -20,6 +20,7 @@
 2. Explain what is “permission” in a file system and why it is important.
 
 **Answer:** ...
+The ability for Users to read, Change, Move through files, add more data in to the file, or execute the file. Basically how much the user has access to the file.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
