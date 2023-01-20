@@ -16,10 +16,10 @@
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** ...
-cd to navigate or move through files and directories.
-cp is to copy files to chosen directory.
-rm to delete files in chosen directory.
-diff to compare two files line by line.
+cd : to navigate or move through files and directories.
+cp : is to copy files to chosen directory.
+rm : to delete files in chosen directory.
+diff : to compare two files line by line.
 
 2. Explain what is “permission” in a file system and why it is important.
 
