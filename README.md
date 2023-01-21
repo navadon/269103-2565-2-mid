@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 
+-czvf uses to compress everything in directory into archive. 
+-xzvf uses to extract everything in archive to directory.
+-grep uses to search a text in file.
+-ls shows info in directory. 
 
 2. Explain what is “permission” in a file system and why it is important.
 
