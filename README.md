@@ -15,12 +15,20 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 
+-czvf uses to compress everything in directory into archive. 
+-xzvf uses to extract everything in archive to directory.
+-grep uses to search a text in file.
+-ls shows info in directory. 
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** 
+Permission is a setting of user's ability to read, write and access to files and directories. Because sometimes files or directories have an important info that need a permission to do anything with it.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** 
+First, I would like to say congratulations to you all for finally being an engineer student. All I need to say and recommend you is please focus on every class you have so you will probably make a good report and don't be afraid if your English is not strong enough I'm sure you will understand what professor's saying every single word soon.
+
+
