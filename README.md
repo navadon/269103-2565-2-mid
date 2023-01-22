@@ -22,7 +22,7 @@ pwd command - It can use to find the path that the user currently working.
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** ... Permission is use to specify who can read/write or execute the files. So it is important because it helps to divide the duties for each person.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
