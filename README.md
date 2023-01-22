@@ -23,4 +23,4 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** ... I recommend prospective ISNE students to work hard on coding because we learn about this a lot and labs get harder every week. If you work hard and review before take the exam, you will get a good grade for sure. The last thing that I'm going to tell is Calculus1 is so hard, it's okay to dropout or get F. Don't be disappointed in yourself, you did great!
