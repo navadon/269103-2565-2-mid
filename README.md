@@ -13,9 +13,12 @@
 
 ## Questions
 
-1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
+1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words.
 
-**Answer:** ...
+**Answer:** ... ls command - It can use to display the names of files, requests and all of information about files in directory.
+cd command - It can use to change to the new working derectory or find directory in incomplete names.
+rm command - It can use to delete files in directory but the user must have write permission.
+pwd command - It can use to find the path that the user currently working.
 
 2. Explain what is “permission” in a file system and why it is important.
 
