@@ -13,14 +13,17 @@
 
 ## Questions
 
-1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
+1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words.
 
-**Answer:** ...
+**Answer:** ... ls command - It can use to display the names of files, requests and all of information about files in directory.
+cd command - It can use to change to the new working derectory or find directory in incomplete names.
+rm command - It can use to delete files in directory but the user must have write permission.
+pwd command - It can use to find the path that the user currently working.
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** ... Permission is use to specify who can read/write or execute the files. So it is important because it helps to divide the duties for each person.
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** ... I recommend prospective ISNE students to work hard on coding because we learn about this a lot and labs get harder every week. If you work hard and review before take the exam, you will get a good grade for sure. The last thing that I'm going to tell is Calculus1 is so hard, it's okay to dropout or get F. Don't be disappointed in yourself, you did great!
