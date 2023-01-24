@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 1. cd (change directory): We often change directories when we need to do something like search for some files or navigate through files, so we need to use cd very frequently.
+2. ls (list): after we navigate to the folder, we also need to know the content in that directory so we can use this command. The ls command can also show the properties of the content.
+3. sudo (super user do): When we need to do something that requires permission, we can use sudo to act as root (super user).
+4. Reboot: When we were using Linux, there would occasionally be an update to fix system performance or security issues; these frequently required restarting the system.
+
 
 2. Explain what is “permission” in a file system and why it is important.
 
