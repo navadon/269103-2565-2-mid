@@ -15,7 +15,11 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+**Answer:** 
+git revert used for undoing changes by creating new commit
+git init is used for create a new git repository 
+git add used for add achange in the working directory to the staging area
+git commit used for captures a snapshot of the project currently staged changes
 .
 2. Explain what is “permission” in a file system and why it is important.
 
