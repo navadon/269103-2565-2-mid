@@ -19,7 +19,8 @@
 
 2. Explain what is “permission” in a file system and why it is important.
 
-**Answer:** ...
+**Answer:** In Linux, file permissions, attributes, and ownership control the access level that the system processes and users have to files. This ensures that only authorized users and processes have access to specific files and directories. These divide into three different classes of users: The file owner,the group, and the Others (everyone else). Each user class has three types of file permissions: read, write, and execute. We can view the file permissions of the file by using the ls command, and we can change the file permissions by using the chmod command.
+
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
