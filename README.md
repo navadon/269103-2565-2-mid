@@ -9,7 +9,7 @@
 - After answering all questions, commit changes, and merge branches back to your local main branch.
 - Push your local repo to your remote repo (GitHub).
 - Submit your pull request (PR) to the original repo by **Tuesday January 24, 2023 11:59pm (GMT+7)**.
-- If your PR is not shown at the original repo or it is submitted after deadline, it will not be graded.
+- If your PR is not shown at the original repo or it is submitted after deadline, it will not be graded .
 
 ## Questions
 
