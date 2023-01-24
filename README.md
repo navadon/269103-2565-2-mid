@@ -30,4 +30,6 @@ it security mechanism which ensures that only authorized users and processes can
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** 
+studying this subject will make you learn many things. Practice more skills 
+what I would like to recommend to you guys is I want you guy to be very happy with thier studies.Don't stress too much about it. if we understand it will be nothing more difficult than we can go
