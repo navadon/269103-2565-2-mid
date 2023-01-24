@@ -29,4 +29,4 @@
 
 3. After one and a half years as an ISNE student, make some recommendations to prospective ISNE students. (Your answer must be at least 50 words long)
 
-**Answer:** ...
+**Answer:** To become a student at ISNE and to fully understand the course, you must study programming fundamentals. Also required are calculus and physics from high school. By understanding the basic principles of programming, calculus, and physics, one can move forward to more advanced topics that are part of the ISNE course. The content will get harder and harder. When you feel you don't understand that topic, you need to act fast! There's no need to be shy about asking you, a professor, or a friend. Asking questions is the best way to break down the barriers of confusion and build a strong understanding of the concepts. For me, who has primarily studied alone for the past six months, it is necessary to make friends and study with them in order to better comprehend difficult topics and help each other.
