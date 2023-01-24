@@ -15,7 +15,13 @@
 
 1. Write four basic Linux commands that you learned in the class that you believe are the most useful and provide a brief description in your own words. 
 
-**Answer:** ...
+"ls" - This command is used to list the files and directories in a specified location.
+
+"cd" - This command is used to change the current working directory.
+
+"pwd" - This command is used to show the current directory path.
+
+"rm" - This command is used to remove files and directories.
 
 2. Explain what is “permission” in a file system and why it is important.
 
